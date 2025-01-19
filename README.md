@@ -9,9 +9,7 @@ A modern status page application built with React (frontend) and FastAPI (backen
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Running the Application](#running-the-application)
-- [Deployment](#deployment)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
+
 
 ## Features
 - Real-time status monitoring
